@@ -11,7 +11,8 @@ Luego de editar el archivo lo guardamos y lo ejecutamos con el comando de ejecuc
 
 # Esquema de conexión de unos LEDs
 
-Conectamos unos Leds a los pines GPIO 21 GPIO 20 y GPIO 43. Como se muestra en la siguiente imagen
+Conectamos unos Leds a los pines GPIO 21 GPIO 20 y GPIO 43. Como se muestra en la siguiente imagen:
+
 
 # Parpadeo de un LED
 
