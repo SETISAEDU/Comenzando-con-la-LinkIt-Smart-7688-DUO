@@ -13,6 +13,8 @@ Luego de editar el archivo lo guardamos y lo ejecutamos con el comando de ejecuc
 
 Conectamos unos Leds a los pines GPIO 21 GPIO 20 y GPIO 43. Como se muestra en la siguiente imagen:
 
+![LinkIt Smart 7688 DUO Diagram](https://raw.githubusercontent.com/SETISAEDU/Comenzando-con-la-LinkIt-Smart-7688-DUO/master/Diagrama_LinkIt_Parte%20II.png)
+
 
 # Parpadeo de un LED
 
