@@ -1,6 +1,6 @@
 # Comenzando-con-la-LinkIt-Smart-7688-DUO
 
-Esta tarjeta de desarrollo nos permite desarrollar multiples tareas a la vez gracias a su Unidad de Procesamiento MT7688 de Mediatek y realiizar tareas de bajo nivel por parte del Microcontrolador ATmega32u4 con lo cual podremos cargar sketchs de Arduino. Con esta tarjeta ganamos dos entornos de desarrollo tanto de Linux y Arduino. La LinkIt Smart 7688 DUO cuenta con soporte de varios lenagujes de programación como lo que son Python, Node.JS y C.
+Esta tarjeta de desarrollo nos permite implementar multiples tareas a la vez gracias a su Unidad de Procesamiento MT7688 de Mediatek y realiizar tareas de bajo nivel por parte del Microcontrolador ATmega32u4 con lo cual podremos cargar sketchs de Arduino. Con esta tarjeta ganamos dos entornos de desarrollo tanto de Linux y Arduino. La LinkIt Smart 7688 DUO cuenta con soporte de varios lenguajes de programación como lo que son Python, Node.JS y C.
 
 
 # Lineas de códigos para el entorno de LINUX (Open WRT)
